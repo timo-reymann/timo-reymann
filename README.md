@@ -11,4 +11,9 @@
 
 ## Fancy stats go here
 
-<a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card"><img align="center" src="https://github-readme-stats.vercel.app/api?username=timo-reymann&count_private=true&show_icons=true&theme=radical&include_all_commits=true" alt="Timo's github stats" /></a>  <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timo-reymann&layout=compact&theme=radical" /></a>
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card"><img align="center" src="https://github-readme-stats.vercel.app/api?username=timo-reymann&count_private=true&show_icons=true&theme=radical&include_all_commits=true" alt="Timo's github stats" /></a>  
+</p>
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timo-reymann&layout=compact&theme=radical" /></a>
+</p>
