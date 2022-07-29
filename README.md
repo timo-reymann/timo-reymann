@@ -1,7 +1,7 @@
 # Hi there, I`m [Timo!](https://timo-reymann.de) 👋
 
 
-### 💬 Ask me about anything [here](https://github.com/timo-reymann/timo-reymann/issues)
+### 💬 Ask me about anything [here](https://github.com/timo-reymann/timo-reymann/discussions/categories/q-a)
 
 ## More about me?
 
