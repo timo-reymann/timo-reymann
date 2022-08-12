@@ -39,6 +39,6 @@ Feature requests will be carefully evaluated by me, and I reverse the right to d
 
 ## Fun (avatar) stuff
 
-| <img width="200" src=".images/octocat.png" alt="Octocat"> | <img width="200" src="https://www.gravatar.com/avatar/488044edca85e594228146ac9f5da6d5?s=200"> |
-| :-------------------------------------------------------: |  :-------------------------------------------------------------------------------------------: |
-| My Octocat                                                | Current gravatar                                                                               |
+| <img width="200" src=".images/octocat.png" alt="Octocat"> | <img width="200" src=".images/southpark.png"> | <img width="200" src="https://www.gravatar.com/avatar/488044edca85e594228146ac9f5da6d5?s=200"> | 
+| :-------------------------------------------------------: | :-------------------------------------------: | :-------------------------------------------------------------------------------------------:  |
+| Octocat                                                   | SouthPark Avatar                              | Current gravatar                                                                               |
