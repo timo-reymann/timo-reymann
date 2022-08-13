@@ -29,7 +29,7 @@ Nevertheless, I always try to deliver fast and respond quickly to questions/issu
 
 ### Stale projects wont get deleted
 
-Whenever a project is discontinued, for whatever reason it **will not be deleted** but rather archived. This way you can have confidence that projects maintained by me will just disappear. Of course also feel free to fork it anyway.
+Whenever a project is discontinued, for whatever reason it **will not be deleted** but rather archived. This way you can have confidence that projects maintained by me will not just disappear. Of course also feel free to fork it anyway.
 
 
 ### Feature requests
