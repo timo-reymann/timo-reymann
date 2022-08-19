@@ -34,7 +34,7 @@ Whenever a project is discontinued, for whatever reason it **will not be deleted
 
 ### Feature requests
 
-Feature requests will be carefully evaluated by me, and I reverse the right to decline requests that either not comply with the overall goal of a project or my opinion.
+Feature requests will be carefully evaluated by me, and I reserve the right to decline requests that either not comply with the overall goal of a project or my opinion.
 
 
 ## Fun (avatar) stuff
