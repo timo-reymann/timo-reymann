@@ -15,7 +15,7 @@
 | Name | Stat |
 | :--- | :---: |
 | General | <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card"><img align="center" src="https://github-readme-stats.vercel.app/api?username=timo-reymann&cardType=level&bg_color=22272e&text_color=FFFFFF&title_color=D65108&count_private=true&include_all_commits=true&show_icons=true&icon_color=D65108&border_color=D65108&hide_title=true" alt="Timo's github stats" /></a> | 
-| Languages | <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timo-reymann&bg_color=22272e&text_color=FFFFFF&title_color=FFFFFF&icon_color=D65108&border_color=D65108&layout=compact" /></a> |
+| Languages | <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timo-reymann&bg_color=22272e&text_color=FFFFFF&title_color=FFFFFF&icon_color=D65108&border_color=D65108&layout=compac&langs_count=7" /></a> |
 | Contribution Streak | <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=timo-reymann&background=22272E&border=D65108&stroke=D65108&sideLabels=FFFFFF&currStreakNum=CB2727&sideNums=D65108&currStreakLabel=FFFFFF&dates=FFFFFF"></a> |
 
 ## General ideology across projects
