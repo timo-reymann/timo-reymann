@@ -44,3 +44,7 @@ Feature requests will be carefully evaluated by me, and I reserve the right to d
 | <img width="200" src=".images/octocat.png" alt="Octocat"> | <img width="200" src=".images/southpark.png"> | <img width="200" src="https://www.gravatar.com/avatar/488044edca85e594228146ac9f5da6d5?s=200"> | 
 | :-------------------------------------------------------: | :-------------------------------------------: | :-------------------------------------------------------------------------------------------:  |
 | Octocat                                                   | SouthPark Avatar                              | Current gravatar                                                                               |
+
+## Wanna buy me a coffee?
+
+<a href="https://www.buymeacoffee.com/timoreymann" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
