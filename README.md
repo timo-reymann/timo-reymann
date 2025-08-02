@@ -1,6 +1,6 @@
 # Hi there, I`m [Timo!](https://timo-reymann.de) 👋
 
-Techie by heart. Full-Stack Web Development, Software Architect and DevOps.
+Techie by heart. Full-Stack Web Development, Software Architecture, DevEx and DevOps.
 
 ### 💬 Ask me about anything [here](https://github.com/timo-reymann/timo-reymann/discussions/categories/q-a)
 
