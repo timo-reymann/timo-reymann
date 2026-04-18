@@ -39,6 +39,18 @@ Whenever a project is discontinued, for whatever reason it **will not be deleted
 
 Feature requests will be carefully evaluated by me, and I reserve the right to decline requests that either not comply with the overall goal of a project or my opinion.
 
+### My stance on AI tooling
+
+AI is slowly but steadily changing how software gets built and I think that's worth acknowledging honestly. Not everyone is on board with that, and I get it. My own relationship with it is rational and pragmatic: use it where it genuinely helps, keep your thinking hat on for decisions that matter.
+
+I use AI tooling in my day-to-day work for private projectas as well as for my day job and I'm open to AI-assisted contributions to my projects, with a few clear expectations:
+
+- You must understand what you're contributing. Don't submit code you can't explain.
+- You own it. Not the AI. You're responsible for the correctness and quality of what you submit.
+- Be transparent. Use Co-Authored-By in the commit message and optionally mention AI assistance in the PR description, along with a note that you've reviewed and take ownership of the changes.
+- Quality bar stays the same. AI-generated or not, contributions are evaluated on technical merit.
+
+If these conditions aren't clearly met, I reserve the right to decline a PR without further explanation.
 
 ## Fun (avatar) stuff
 
