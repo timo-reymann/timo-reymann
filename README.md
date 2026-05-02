@@ -1,4 +1,5 @@
 # Hi there, I`m [Timo!](https://timo-reymann.de) 👋
+![](https://komarev.com/ghpvc/?username=timo-reymann&color=orange)
 
 Techie by heart. Full-Stack Web Development, Software Architecture, DevEx and DevOps.
 
